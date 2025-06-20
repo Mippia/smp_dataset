@@ -3,11 +3,15 @@
 
 ## Paper 
 
-Real-Wordl Music Plagiarism Detection With Music Segment Transcription System link : TBD
+Real-World Music Plagiarism Detection With Music Segment Transcription System link : TBD
 
 ## Overview
 
 The SMP dataset contains 70 music piece pairs for plagiarism detection research. This is currently a sample-scale dataset designed to demonstrate our approach and methodology. Each pair includes original and comparison tracks with temporal segments marking similar parts.
+
+Segment transcription code and similarity code needs time for refactoring..
+
+And we also works on end-to-end segment transcription..! 
 
 ## Dataset Structure
 
