@@ -1,5 +1,10 @@
 # SMP Dataset: Similar Music Pair Dataset
 
+
+## Paper 
+
+Real-Wordl Music Plagiarism Detection With Music Segment Transcription System link : TBD
+
 ## Overview
 
 The SMP dataset contains 70 music piece pairs for plagiarism detection research. This is currently a sample-scale dataset designed to demonstrate our approach and methodology. Each pair includes original and comparison tracks with temporal segments marking similar parts.
